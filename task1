@@ -1,0 +1,10 @@
+var age = 2;//число
+var person_name = "name";//строка
+var inform = true;//буль
+var n = null;
+var proffesion;//undefiend
+console.log(person_name);
+console.log(age);
+console.log(n);
+console.log(inform);
+console.log(proffesion)
